@@ -1,0 +1,264 @@
+[
+    {
+        "Nombre": "Espresso",
+        "ID": 1,
+        "Stock": 4,
+        "Precio": 7,
+        "Categorias": [
+            "Bebida",
+            "Caliente",
+            "Cafe"
+        ]
+    },
+    {
+        "Nombre": "Cappuccino",
+        "ID": 2,
+        "Stock": 9,
+        "Precio": 8,
+        "Categorias": [
+            "Bebida",
+            "Caliente",
+            "Cafe"
+        ]
+    },
+    {
+        "Nombre": "Latte",
+        "ID": 3,
+        "Stock": 9,
+        "Precio": 8,
+        "Categorias": [
+            "Bebida",
+            "Caliente",
+            "Cafe"
+        ]
+    },
+    {
+        "Nombre": "Moccha",
+        "ID": 4,
+        "Stock": 10,
+        "Precio": 9,
+        "Categorias": [
+            "Bebida",
+            "Caliente",
+            "Cafe"
+        ]
+    },
+    {
+        "Nombre": "An\u00c3\u00ads",
+        "ID": 5,
+        "Stock": 10,
+        "Precio": 5,
+        "Categorias": [
+            "Bebida",
+            "Caliente",
+            "Infusi\u00c3\u00b3n"
+        ]
+    },
+    {
+        "Nombre": "Manzanilla",
+        "ID": 24,
+        "Stock": 10,
+        "Precio": 3,
+        "Categorias": [
+            "Bebida",
+            "Caliente",
+            "Infusi\u00c3\u00b3n"
+        ]
+    },
+    {
+        "Nombre": "Pumpkin spice lattes",
+        "ID": 12,
+        "Stock": 10,
+        "Precio": 16,
+        "Categorias": [
+            "Bebida",
+            "Caliente",
+            "Especial"
+        ]
+    },
+    {
+        "Nombre": "Cafe frappe",
+        "ID": 6,
+        "Stock": 9,
+        "Precio": 12,
+        "Categorias": [
+            "Bebida",
+            "Fr\u00c3\u00ado",
+            "Cafe"
+        ]
+    },
+    {
+        "Nombre": "Cappuccino frappe",
+        "ID": 7,
+        "Stock": 10,
+        "Precio": 12,
+        "Categorias": [
+            "Bebida",
+            "Fr\u00c3\u00ado",
+            "Cafe"
+        ]
+    },
+    {
+        "Nombre": "Cafe frio",
+        "ID": 8,
+        "Stock": 10,
+        "Precio": 7,
+        "Categorias": [
+            "Bebida",
+            "Fr\u00c3\u00ado",
+            "Cafe"
+        ]
+    },
+    {
+        "Nombre": "Limonada",
+        "ID": 9,
+        "Stock": 9,
+        "Precio": 5,
+        "Categorias": [
+            "Bebida",
+            "Fr\u00c3\u00ado",
+            "Refresco"
+        ]
+    },
+    {
+        "Nombre": "Malteada",
+        "ID": 10,
+        "Stock": 10,
+        "Precio": 15,
+        "Categorias": [
+            "Bebida",
+            "Fr\u00c3\u00ado",
+            "Especial"
+        ]
+    },
+    {
+        "Nombre": "Chicha",
+        "ID": 23,
+        "Stock": 9,
+        "Precio": 5,
+        "Categorias": [
+            "Fr\u00c3\u00ado"
+        ]
+    },
+    {
+        "Nombre": "Matcha frappe",
+        "ID": 11,
+        "Stock": 10,
+        "Precio": 16,
+        "Categorias": [
+            "Bebida",
+            "Fr\u00c3\u00ado",
+            "Especial"
+        ]
+    },
+    {
+        "Nombre": "Croissant de pollo",
+        "ID": 13,
+        "Stock": 9,
+        "Precio": 10,
+        "Categorias": [
+            "Comida",
+            "Cl\u00c3\u00a1sico",
+            "Sandwich"
+        ]
+    },
+    {
+        "Nombre": "Sandwich pavita y queso",
+        "ID": 14,
+        "Stock": 10,
+        "Precio": 12,
+        "Categorias": [
+            "Comida",
+            "Integral",
+            "Sandwich"
+        ]
+    },
+    {
+        "Nombre": "Triple",
+        "ID": 15,
+        "Stock": 9,
+        "Precio": 8,
+        "Categorias": [
+            "Comida",
+            "Cl\u00c3\u00a1sico",
+            "Sandwich"
+        ]
+    },
+    {
+        "Nombre": "Empanada de pollo",
+        "ID": 16,
+        "Stock": 10,
+        "Precio": 6,
+        "Categorias": [
+            "Comida",
+            "Integral",
+            "Empanada"
+        ]
+    },
+    {
+        "Nombre": "Empanada de carne",
+        "ID": 17,
+        "Stock": 10,
+        "Precio": 6,
+        "Categorias": [
+            "Comida",
+            "Cl\u00c3\u00a1sico",
+            "Empanada"
+        ]
+    },
+    {
+        "Nombre": "Empanada de queso",
+        "ID": 18,
+        "Stock": 10,
+        "Precio": 6,
+        "Categorias": [
+            "Comida",
+            "Integral",
+            "Empanada"
+        ]
+    },
+    {
+        "Nombre": "Empanada mixta",
+        "ID": 19,
+        "Stock": 10,
+        "Precio": 6,
+        "Categorias": [
+            "Comida",
+            "Cl\u00c3\u00a1sico",
+            "Empanada"
+        ]
+    },
+    {
+        "Nombre": "Torta de chocolate",
+        "ID": 20,
+        "Stock": 10,
+        "Precio": 7,
+        "Categorias": [
+            "Comida",
+            "Cl\u00c3\u00a1sico",
+            "Postre"
+        ]
+    },
+    {
+        "Nombre": "Rollo de canela",
+        "ID": 21,
+        "Stock": 9,
+        "Precio": 7,
+        "Categorias": [
+            "Comida",
+            "Especial",
+            "Postre"
+        ]
+    },
+    {
+        "Nombre": "Cheesecake de fresa",
+        "ID": 22,
+        "Stock": 10,
+        "Precio": 8,
+        "Categorias": [
+            "Comida",
+            "Especial",
+            "Postre"
+        ]
+    }
+]

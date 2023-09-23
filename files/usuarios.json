@@ -1,0 +1,30 @@
+[
+    {
+        "usuario": "JoxSam35",
+        "contrasenia": "pbkdf2:sha256:260000$Yu6QMwKyeUOTNAHa$bf0f1f793254e730713dbb7cc4e20208c9cc49bd682687e281defb6fe3804cd0",
+        "nombre": "Jose",
+        "apellido": "Quispe",
+        "correo": "jose.quispe@gmail.com"
+    },
+    {
+        "usuario": "Ghopst",
+        "contrasenia": "pbkdf2:sha256:260000$rglDLkVSldsPluUy$92c51c6d099143ac87b860d544bbb312df1deb326fd2561ee02e7b7156c78056",
+        "nombre": "Gianfranco",
+        "apellido": "Ore",
+        "correo": "gianfranco.ore@gmail.com"
+    },
+    {
+        "usuario": "Fiomisufiu",
+        "contrasenia": "pbkdf2:sha256:260000$4M5HjwK9vIOWCUWn$11f8647b232c2072aac3f441cdb9d0e07fe7f42564a28a86d88c491633a73e09",
+        "nombre": "Fiorella",
+        "apellido": "Mirano",
+        "correo": "fiorella.mirano@gmail.com"
+    },
+    {
+        "usuario": "Theratoffqa",
+        "contrasenia": "pbkdf2:sha256:260000$O45kStmkH88BAZRO$86d12c32d12405a2f3df4bd041a2088669b4e65061e4900f61c9cc5e7b37c8b6",
+        "nombre": "Pedro",
+        "apellido": "Barazorda",
+        "correo": "pedro.barazorda@gmail.com"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "usuario": "Jatmnk9",
+        "contrasenia": "pbkdf2:sha256:260000$tod7FLymyDTp199Y$3f7b3e6f6770c8217f949907272e7de440ba680de19d3d431be2b0852e7e1e45",
+        "nombre": "Jatziry",
+        "apellido": "Sanchez",
+        "correo": "jatziry.sanchez@gmail.com",
+        "metpago": "Tarjeta",
+        "pago": [
+            {
+                "Codigo": "8d1fd5e4-1049-4cd6-8359-b604cfb397ea",
+                "Concepto": "Pago por reserva de habitaciones: [9, 21]",
+                "Fecha": "19/12/2022 15:46:32",
+                "Monto": 12,
+                "MetodoPago": {
+                    "Metodo de pago": "Tarjeta",
+                    "Cuenta": 5102575553380988
+                }
+            },
+            {
+                "ID": 1,
+                "Nombre": "Espresso",
+                "Fecha": "21/12/2022 00:00:51"
+            },
+            {
+                "ID": 1,
+                "Nombre": "Espresso",
+                "Fecha": "21/12/2022 00:10:18"
+            },
+            {
+                "ID": 13,
+                "Nombre": "Croissant de pollo",
+                "Fecha": "21/12/2022 00:38:36"
+            },
+            {
+                "ID": 1,
+                "Nombre": "Espresso",
+                "Fecha": "21/12/2022 00:46:29"
+            },
+            {
+                "ID": 1,
+                "Nombre": "Espresso",
+                "Fecha": "21/12/2022 00:49:03"
+            },
+            {
+                "ID": 6,
+                "Nombre": "Cafe frappe",
+                "Fecha": "21/12/2022 00:50:30"
+            },
+            {
+                "ID": 2,
+                "Nombre": "Cappuccino",
+                "Fecha": "21/12/2022 21:19:58"
+            }
+        ]
+    }
+]
